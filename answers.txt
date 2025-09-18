@@ -7,3 +7,8 @@ Con 2: Not using agile can make it easier to just get started with the developme
 B:
 The scrum master is the person who manages the standup meetings every day and keeps a track of the jira development board
 The product owner is the person who uses the software and interacts with the actual solution, they are not involved in the development process
+
+C:
+Sprint Planning: Define the sprint goal, and Decide how tasks will be allocated to team
+Sprint Review: Showcase completed tasks, and gather feedback from team and shareholders
+Spring Retrospective: Discuss what went well in the project, Figure out potential code improvements
