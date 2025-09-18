@@ -12,9 +12,3 @@ C:
 Sprint Planning: Define the sprint goal, and Decide how tasks will be allocated to team
 Sprint Review: Showcase completed tasks, and gather feedback from team and shareholders
 Spring Retrospective: Discuss what went well in the project, Figure out potential code improvements
-
-D:
-Epic: Large amount of work to be broken down into smaller tasks
-Story: A small task relative to an epic that satisfies a user requirement
-Bug: A error indication for team to understand that a certain story has a bug associated with it
-Task: Work that needs to get done but it is something that the user does not interact with (still relative to user product)
