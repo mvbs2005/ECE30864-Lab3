@@ -1,0 +1,5 @@
+A:
+Pro 1: Easier to manage a big project by allowing to break down and keep track of smaller tasks.
+Pro 2: Good way to divide a project between a team and have everybody on the same page about progress of the project
+Con 1: Can take a bit of time to set up a big project
+Con 2: Not using agile can make it easier to just get started with the development process
